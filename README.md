@@ -104,21 +104,16 @@ Windows PuTTY download(https://www.putty.org/)
 Introduction to Containers(https://learning.cyverse.org/projects/cyverse-foss/en/latest/Containers/introtocontainers.html#)
 Genomics Reproducbility Tutorial(https://learning.cyverse.org/projects/cyverse-cyverse-reproducbility-tutorial/en/latest/index.html)
 
-## Week 8
+## Week 8 Reproducibility Tour 3
 <div align="left">
       <a href="https://youtu.be/6sBFbH-K52Y">
          <img src="https://img.youtube.com/vi/6sBFbH-K52Y/0.jpg" style="width:100%;">
       </a>
 </div>
 
-### FOSS Materials/Useful links
-
-
-## Week 9
+## Week 9 Review
 <div align="left">
       <a href="https://youtu.be/R6s_jTiF1Io">
          <img src="https://img.youtube.com/vi/R6s_jTiF1Io/0.jpg" style="width:100%;">
       </a>
 </div>
-
-### FOSS Materials/Useful links
