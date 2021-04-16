@@ -25,11 +25,11 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[Overview of Data mangement](https://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html)
+*[Overview of Data mangement](https://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html)
 
-[FAIR self-assessment](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/)
+*[FAIR self-assessment](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/)
 
-[Data-Stewarship wizard](https://ds-wizard.org/)
+*[Data-Stewarship wizard](https://ds-wizard.org/)
 
 ## Week 3 Data Store and Shell Intro
 <div align="left">
