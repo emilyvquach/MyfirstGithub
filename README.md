@@ -90,7 +90,7 @@ The journey is more important than the goal. We want your capstone projects to g
 [GitHub](https://github.com/)
 [JetStream JetStream Cloud](https://jetstream-cloud.org/)
 [SSH Atmosphere learning center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/step3.html#connect-to-atmosphere-instance-using-ssh)
-[Windows PuTTY](https://www.putty.org/) Used to open Atmosphere
+[Windows PuTTY](https://www.putty.org/)
 
 ## Week 7 Reproducibility Tour 2 - Containers
 <div align="left">
