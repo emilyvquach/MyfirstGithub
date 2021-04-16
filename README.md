@@ -2,6 +2,7 @@
 # Emily Quach 
 ## Capstone II Statement
 Emily's background is in molecular biology, microbiology, and parasitology. Currently Emily is a 1st year adjunct intructor at community college in the Bay Area. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. 
+
 *NEED TO ANSWER
 Which tool could you apply right away and why?
 What is your greatest barrier to these tools?
@@ -25,7 +26,9 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 
 ### FOSS Materials/Useful links
 [Overview of Data mangement](https://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html)
+
 [FAIR self-assessment](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/)
+
 [Data-Stewarship wizard](https://ds-wizard.org/)
 
 ## Week 3 Data Store and Shell Intro
