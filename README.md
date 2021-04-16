@@ -39,9 +39,9 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[ReadTheDocs:Data Store](https://learning.cyverse.org/projects/foss/en/latest/CyVerse/de-data-manage.html)
+-[ReadTheDocs:Data Store](https://learning.cyverse.org/projects/foss/en/latest/CyVerse/de-data-manage.html)
 
-[ReadTheDocs: Command Line](https://learning.cyverse.org/projects/foss/en/latest/software_essentials/commandline.html)
+-[ReadTheDocs: Command Line](https://learning.cyverse.org/projects/foss/en/latest/software_essentials/commandline.html)
 
 ## Week 4 GitHub and Markdown
 <div align="left">
@@ -51,15 +51,15 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[Course Homepage](https://learning.cyverse.org/projects/foss/en/latest/index.html)
+-[Course Homepage](https://learning.cyverse.org/projects/foss/en/latest/index.html)
 
-[CyVerse metadata](https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html?highlight=metadata)
+-[CyVerse metadata](https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html?highlight=metadata)
 
-[Software Carpentry Unix Lessons](http://swcarpentry.github.io/shell-novice/)
+-[Software Carpentry Unix Lessons](http://swcarpentry.github.io/shell-novice/)
 
-[GitHub](https://github.com/)
+-[GitHub](https://github.com/)
 
-[Intro to Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-[Intro to Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Week 5 Extending GitHub and Building Websites
 <div align="left">
@@ -69,19 +69,19 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[Course Homepage](https://learning.cyverse.org/projects/foss/en/latest/index.html)
+-[Course Homepage](https://learning.cyverse.org/projects/foss/en/latest/index.html)
 
-[Discovery Enviornment](https://sonora.cyverse.org/)
+-[Discovery Enviornment](https://sonora.cyverse.org/)
 
-[GitHub on FOSS webpage](https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/GitHub.html)
+-[GitHub on FOSS webpage](https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/GitHub.html)
 
-[Websites & Documentation on FOSS](https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/websites.html)
+-[Websites & Documentation on FOSS](https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/websites.html)
 
-[Quick Start for Websites on GitHub from FOSS](https://learning.cyverse.org/projects/foss/en/latest/documentation/githubpages.html)
+-[Quick Start for Websites on GitHub from FOSS](https://learning.cyverse.org/projects/foss/en/latest/documentation/githubpages.html)
 
-[Free version of Read The Docs](https://readthedocs.org/)
+-[Free version of Read The Docs](https://readthedocs.org/)
 
-[Creative Commons License Wizard](https://creativecommons.org/choose/)
+-[Creative Commons License Wizard](https://creativecommons.org/choose/)
 
 ## Week 6 Reproducibility Tour 1
 <div align="left">
@@ -91,20 +91,20 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[Reproducibility Tour](https://learning.cyverse.org/projects/cyverse-foss/en/latest/reproducible_science/intro.html)
+-[Reproducibility Tour](https://learning.cyverse.org/projects/cyverse-foss/en/latest/reproducible_science/intro.html)
 
-[Atmosphere Cloud ComputingAtmosphere](https://atmo.cyverse.org/application/images)
+-[Atmosphere Cloud ComputingAtmosphere](https://atmo.cyverse.org/application/images)
 ****(remember to shelve your instance before you log off)
 
-[Atmosphere Guide Learning Center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/)
+-[Atmosphere Guide Learning Center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/)
 
-[GitHub](https://github.com/)
+-[GitHub](https://github.com/)
 
-[JetStream JetStream Cloud](https://jetstream-cloud.org/)
+-[JetStream JetStream Cloud](https://jetstream-cloud.org/)
 
-[SSH Atmosphere learning center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/step3.html#connect-to-atmosphere-instance-using-ssh)
+-[SSH Atmosphere learning center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/step3.html#connect-to-atmosphere-instance-using-ssh)
 
-[Windows PuTTY](https://www.putty.org/)
+-[Windows PuTTY](https://www.putty.org/)
 
 ## Week 7 Reproducibility Tour 2 - Containers
 <div align="left">
@@ -114,9 +114,9 @@ Getting together as a team, which tool or concept do you feel is closest to impl
 </div>
 
 ### FOSS Materials/Useful links
-[Introduction to Containers](https://learning.cyverse.org/projects/cyverse-foss/en/latest/Containers/introtocontainers.html#)
+-[Introduction to Containers](https://learning.cyverse.org/projects/cyverse-foss/en/latest/Containers/introtocontainers.html#)
 
-[Genomics Reproducbility Tutorial](https://learning.cyverse.org/projects/cyverse-cyverse-reproducbility-tutorial/en/latest/index.html)
+-[Genomics Reproducbility Tutorial](https://learning.cyverse.org/projects/cyverse-cyverse-reproducbility-tutorial/en/latest/index.html)
 
 ## Week 8 Reproducibility Tour 3
 <div align="left">
