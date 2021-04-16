@@ -1,7 +1,7 @@
 # MyfirstGithub
 # Emily Quach 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bTdeE95xRk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Emily's background is in molecular biology, microbiology, and parasitology. Currently Emily is a 1st year adjunct intructor at community college in the Bay Area. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. 
+ 
 
 <div align="left">
       <a href="https://youtu.be/bTdeE95xRk0">
