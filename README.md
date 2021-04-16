@@ -5,6 +5,6 @@
 
 <div align="left">
       <a href="https://youtu.be/bTdeE95xRk0">
-         <img src="https://youtu.be/bTdeE95xRk0/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/bTdeE95xRk/0.jpg" style="width:100%;">
       </a>
 </div>
