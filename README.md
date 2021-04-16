@@ -1,18 +1,12 @@
 # MyfirstGithub
 # Emily Quach 
+## Capstone II Statement
 Emily's background is in molecular biology, microbiology, and parasitology. Currently Emily is a 1st year adjunct intructor at community college in the Bay Area. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. 
-
-# Capstone II Statement
-Have each team member write a paragraph on tools or concepts learned through FOSS and how they might apply to their field of study. In this paragraph, please address the following questions:
-
+*NEED TO ANSWER
 Which tool could you apply right away and why?
 What is your greatest barrier to these tools?
 What tools would you wish we covered more in depth?
 Getting together as a team, which tool or concept do you feel is closest to implementable... could you would together as a team to develop a project on this?
-
-Think about the Reproducibility Tour as a guideline, but work together to align your team and individual goals.
-Use GitHub pages to document your team's ideas
-The journey is more important than the goal. We want your capstone projects to guide you toward your next steps after FOSS.
  
 # FOSS Class
 ## Week 1 Introduction
