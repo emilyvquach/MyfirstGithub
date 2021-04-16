@@ -85,7 +85,8 @@ The journey is more important than the goal. We want your capstone projects to g
 
 ### FOSS Materials/Useful links
 [Reproducibility Tour](https://learning.cyverse.org/projects/cyverse-foss/en/latest/reproducible_science/intro.html)
-[Atmosphere Cloud Computing]Atmosphere(https://atmo.cyverse.org/application/images) (remember to shelve your instance before you log off)
+[Atmosphere Cloud ComputingAtmosphere](https://atmo.cyverse.org/application/images)
+****(remember to shelve your instance before you log off)
 [Atmosphere Guide Learning Center](https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/)
 [GitHub](https://github.com/)
 [JetStream JetStream Cloud](https://jetstream-cloud.org/)
