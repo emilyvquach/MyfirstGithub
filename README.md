@@ -16,3 +16,15 @@ Week 2
          <img src="https://img.youtube.com/vi/T5dvOCShPiY/0.jpg" style="width:100%;">
       </a>
 </div>
+FOSS Materials/Useful links
+Instant Feedback (please complete before you leave class):
+Overview of Data mangement: https://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html
+FAIR self-assessment: https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
+Data-Stewarship wizard: https://ds-wizard.org/
+
+Week 3
+<div align="left">
+      <a href="https://youtu.be/WkJzyoGoIUM">
+         <img src="https://img.youtube.com/vi/WkJzyoGoIUM/0.jpg" style="width:100%;">
+      </a>
+</div>
