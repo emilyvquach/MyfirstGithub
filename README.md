@@ -49,3 +49,50 @@ GitHub https://github.com/
 Intro to Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Week 5 
+<div align="left">
+      <a href="https://youtu.be/qOQGKVP5IgQ">
+         <img src="https://img.youtube.com/vi/qOQGKVP5IgQ/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+### FOSS Materials/Useful links
+
+
+## Week 6
+<div align="left">
+      <a href="https://youtu.be/Gc6GEhPXltk">
+         <img src="https://img.youtube.com/vi/Gc6GEhPXltk/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+### FOSS Materials/Useful links
+
+
+## Week 7
+<div align="left">
+      <a href="https://youtu.be/h1XoQvma4uU">
+         <img src="https://img.youtube.com/vi/h1XoQvma4uU/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+### FOSS Materials/Useful links
+
+
+## Week 8
+<div align="left">
+      <a href="https://youtu.be/6sBFbH-K52Y">
+         <img src="https://img.youtube.com/vi/6sBFbH-K52Y/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+### FOSS Materials/Useful links
+
+
+## Week 9
+<div align="left">
+      <a href="https://youtu.be/R6s_jTiF1Io">
+         <img src="https://img.youtube.com/vi/R6s_jTiF1Io/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+### FOSS Materials/Useful links
