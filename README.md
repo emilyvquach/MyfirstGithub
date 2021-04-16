@@ -17,8 +17,8 @@ Emily's background is in molecular biology, microbiology, and parasitology. Curr
       </a>
 </div>
 
-FOSS Materials/Useful links
-[Overview of Data mangement](ttps://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html)
+### FOSS Materials/Useful links
+[Overview of Data mangement](https://learning.cyverse.org/projects/foss/en/latest/Data_management/overview.html)
 FAIR self-assessment: https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
 Data-Stewarship wizard: https://ds-wizard.org/
 
@@ -29,7 +29,7 @@ Data-Stewarship wizard: https://ds-wizard.org/
       </a>
 </div>
 
-FOSS Materials/Useful links
+### FOSS Materials/Useful links
 ReadTheDocs: Data Store https://learning.cyverse.org/projects/foss/en/latest/CyVerse/de-data-manage.html
 ReadTheDocs: Command Line https://learning.cyverse.org/projects/foss/en/latest/software_essentials/commandline.html
 
@@ -40,7 +40,7 @@ ReadTheDocs: Command Line https://learning.cyverse.org/projects/foss/en/latest/s
       </a>
 </div>
 
-FOSS Materials/Useful links
+### FOSS Materials/Useful links
 Course Homepage https://learning.cyverse.org/projects/foss/en/latest/index.html
 Course Schedule https://learning.cyverse.org/projects/foss/en/latest/getting_started/schedule.html
 CyVerse metadata https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html?highlight=metadata
