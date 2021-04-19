@@ -1,13 +1,7 @@
 # MyfirstGithub
 # Emily Quach 
 ## Capstone II Statement
-Emily's background is in molecular biology, microbiology, and parasitology. Currently, Emily is a first year adjunct intructor at community college. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. 
-
-*NEED TO ANSWER
-Which tool could you apply right away and why?
-What is your greatest barrier to these tools?
-What tools would you wish we covered more in depth?
-Getting together as a team, which tool or concept do you feel is closest to implementable... could you would together as a team to develop a project on this?
+Emily's background is in molecular biology, microbiology, and parasitology. Currently, Emily is a first year adjunct intructor at community college. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. My greatest barrier to the tools is new to coding and using new languages. Using R markdown is a tool I will try to apply right away, its a fast way to type and create pages. 
  
 # FOSS Class
 ## Week 1 Introduction
